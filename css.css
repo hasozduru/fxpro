@@ -1,0 +1,30 @@
+/* CSS Document */
+
+#paging_button ul { 
+	width: 600px; 
+	padding:0px; 
+	margin:8px;
+}
+
+#paging_button ul li { 
+	-moz-border-radius: 6px; 
+	-webkit-border-radius: 6px;
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.6);
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.6);
+	float:left; height:20px; width:20px; list-style-image:none; 
+	list-style-type:none; font-weight:bold; border:solid #CCCCCC 1px;
+	margin:3px; cursor:pointer
+}
+
+li:hover { 
+	color: #CC0000; 
+	cursor: pointer; 
+}
+#container_ajax .each_rec {
+	color:#000066;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	padding:5px 5px 12px 5px;
+	text-align:justify;
+	margin-bottom:11px;
+}

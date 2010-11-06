@@ -1,0 +1,40 @@
+/* $Id: printlinks.css,v 1.1.2.6 2009/06/04 23:08:43 jcnventura Exp $ */
+
+.print-link {
+  position:relative;
+  bottom: 0.5em;
+  float:right;
+}
+
+a.print-page{
+  font-size:10px  !important;
+  color:#000000  !important;
+  font-size:10px  !important;
+  line-height:40px  !important;
+  overflow:visible  !important;
+  padding:0 0 0 15px  !important;
+  text-decoration:none  !important;
+}
+
+.print_html, .print_mail, .print_pdf {
+  margin-left: 1em;
+  display: block !important;
+  float: right  !important;
+}
+
+.print-syslink {
+  margin-right: 1em;
+}
+
+img.print-icon {
+  vertical-align: middle;
+}
+
+img.print-icon-margin {
+  padding-right: 4px;
+}
+
+label.printmail-label {
+  width: 175px;
+  float: left;
+}
