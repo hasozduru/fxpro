@@ -215,7 +215,7 @@ Russia,
 Greece and Cyprus. For further information, please visit <a href="http://www.fxpro.com/">www.FxPro.com</a>. </p>
 
 <!-- Begin HO code -->
-<?php
+<?
 include("dbcon.php");
 $sql1=mysql_query('SELECT * FROM reviews');
 $reviews=array();
