@@ -224,7 +224,7 @@ while($row=mysql_fetch_object($sql1)) {
 }
 ?>
 <p><strong>User Review</strong></p>
-<?php
+<?
 $itemsPerPage=5;
 $numberOfReviews=count($reviews);
 $pageNumbers=ceil($numberOfReviews/$itemsPerPage);
