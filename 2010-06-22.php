@@ -21,7 +21,7 @@
 <link type="text/css" rel="stylesheet" media="all" href="2010-06-22_files/nice_menus.css">
 <link type="text/css" rel="stylesheet" media="all" href="2010-06-22_files/nice_menus_default.css">
 <link type="text/css" rel="stylesheet" media="all" href="2010-06-22_files/printlinks.css">
-  	<script src="2010-06-22_files/ga.js" async="" type="text/javascript"></script><script type="text/javascript" src="2010-06-22_files/jquery.js"></script>
+<script src="2010-06-22_files/ga.js" async="" type="text/javascript"></script><script type="text/javascript" src="2010-06-22_files/jquery.js"></script>
 	<script type="text/javascript" src="2010-06-22_files/jquery_002.js"></script>
 	<script type="text/javascript" src="2010-06-22_files/imageZoom.js"></script>
 	<script type="text/javascript" src="2010-06-22_files/jtabs.js"></script>
