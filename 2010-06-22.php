@@ -6,7 +6,7 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
                                                                        
-  <meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Style-Type" content="text/css">
   
 <meta name="keywords" content="forex, forex trading, online trading, online forex, online forex trading, forex news, currency trading, forex broker, learn forex, forex trade">
 <meta name="description" content="Offers online Forex trading services and news for brokers and currency trading professionals as well as demos to help beginners learn Forex trading.">
