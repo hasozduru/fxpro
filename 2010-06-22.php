@@ -11,8 +11,8 @@
 <meta name="keywords" content="forex, forex trading, online trading, online forex, online forex trading, forex news, currency trading, forex broker, learn forex, forex trade">
 <meta name="description" content="Offers online Forex trading services and news for brokers and currency trading professionals as well as demos to help beginners learn Forex trading.">
 <link rel="shortcut icon" href="http://www.fxpro.com/sites/default/files/fxpro_favicon.ico" type="image/x-icon">
-  <title>FxPro Announces Customer Support In Three More Languages</title>
-  <link type="text/css" rel="stylesheet" media="all" href="2010-06-22_files/node.css">
+<title>FxPro Announces Customer Support In Three More Languages</title>
+<link type="text/css" rel="stylesheet" media="all" href="2010-06-22_files/node.css">
 <link type="text/css" rel="stylesheet" media="all" href="2010-06-22_files/defaults.css">
 <link type="text/css" rel="stylesheet" media="all" href="2010-06-22_files/system.css">
 <link type="text/css" rel="stylesheet" media="all" href="2010-06-22_files/system-menus.css">
