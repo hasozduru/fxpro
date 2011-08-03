@@ -127,7 +127,7 @@
 <a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;username=internal05"><img src="2010-06-22_files/lg-share-en.png" alt="Bookmark and Share" style="border: 0pt none;"></a><script type="text/javascript" src="2010-06-22_files/addthis_widget.js"></script>
 <!-- AddThis Button END -->
 <a href="http://www.fxpro.com/print/news/2010-06-22" id="print">Print</a></div>
-											<h1 id="capter">Company news</h1>														<div class="node">
+											<h1 id="capter">Company news branch1</h1>														<div class="node">
         <span class="submitted"></span>
     <div class="taxonomy"></div>
     <div class="content">                <span class="date">22 June 2010</span>
